@@ -9,7 +9,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 📊 Dashboard
 
 <p align="center">
-  <img src="assets/dashboard.png" width="850">
+  <img src="assets/1.png" width="850">
 </p>
 
 ---
@@ -17,7 +17,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 📁 Dataset Upload
 
 <p align="center">
-  <img src="assets/dataset.png" width="850">
+  <img src="assets/2.png" width="850">
 </p>
 
 ---
@@ -25,15 +25,15 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 🧹 Data Preprocessing
 
 <p align="center">
-  <img src="assets/preprocessing.png" width="850">
+  <img src="assets/3.png" width="850">
 </p>
 
 ---
 
-### 📈 EDA & Visualization
+### 📈 EDA 
 
 <p align="center">
-  <img src="assets/visualization.png" width="850">
+  <img src="assets/4.png" width="850">
 </p>
 
 ---
@@ -41,7 +41,17 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 🤖 Machine Learning Predictions
 
 <p align="center">
-  <img src="assets/ml_models.png" width="850">
+  <img src="assets/5.png" width="850">
+  <img src="assets/6.png" width="850">
+  <img src="assets/7.png" width="850">
+</p>
+
+---
+
+### 📈  Visualization
+
+<p align="center">
+  <img src="assets/8.png" width="850">
 </p>
 
 ---
@@ -64,7 +74,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ## 📥 Download Application
 
 Download Executable (.exe)  
-🔗 https://YOUR_GOOGLE_DRIVE_LINK
+🔗 [https://YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/1i247eMhZdFHqnezL6FkCC1REAj0poSDy?usp=sharing)
 
 ---
 
