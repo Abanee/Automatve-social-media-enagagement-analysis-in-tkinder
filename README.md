@@ -9,7 +9,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 📊 Dashboard
 
 <p align="center">
-  <img src="assets/1.png" width="850">
+  <img src="asset/1.png" width="850">
 </p>
 
 ---
@@ -17,7 +17,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 📁 Dataset Upload
 
 <p align="center">
-  <img src="assets/2.png" width="850">
+  <img src="asset/2.png" width="850">
 </p>
 
 ---
@@ -25,7 +25,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 🧹 Data Preprocessing
 
 <p align="center">
-  <img src="assets/3.png" width="850">
+  <img src="asset/3.png" width="850">
 </p>
 
 ---
@@ -33,7 +33,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 📈 EDA 
 
 <p align="center">
-  <img src="assets/4.png" width="850">
+  <img src="asset/4.png" width="850">
 </p>
 
 ---
@@ -41,9 +41,9 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 🤖 Machine Learning Predictions
 
 <p align="center">
-  <img src="assets/5.png" width="850">
-  <img src="assets/6.png" width="850">
-  <img src="assets/7.png" width="850">
+  <img src="asset/5.png" width="850">
+  <img src="asset/6.png" width="850">
+  <img src="asset/7.png" width="850">
 </p>
 
 ---
@@ -51,7 +51,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 📈  Visualization
 
 <p align="center">
-  <img src="assets/8.png" width="850">
+  <img src="asset/8.png" width="850">
 </p>
 
 ---
@@ -59,7 +59,7 @@ The system processes datasets, performs EDA, predicts engagement using regressio
 ### 🎬 Application Demo (GIF)
 
 <p align="center">
-  <img src="assets/app_preview.gif" width="900">
+  <img src="asset/app_preview.gif" width="900">
 </p>
 
 ---
